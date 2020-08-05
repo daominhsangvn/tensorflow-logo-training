@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nois</folder>
+	<filename>year-end-party-cong-ty-nois.jpg</filename>
+	<path>C:\Users\ShawnDao\Downloads\Branch Logos\images\nois\year-end-party-cong-ty-nois.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nois</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>304</xmin>
+			<ymin>149</ymin>
+			<xmax>396</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+</annotation>
